@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Anurag-Singh-Profile/static/css/main.70c0b141.css",
+    "main.js": "/Anurag-Singh-Profile/static/js/main.f94c6d7e.js",
+    "static/media/profile.jpeg": "/Anurag-Singh-Profile/static/media/profile.32a8eff9a4c21caec96a.jpeg",
+    "index.html": "/Anurag-Singh-Profile/index.html",
+    "static/media/linkedin_icon.svg": "/Anurag-Singh-Profile/static/media/linkedin_icon.ada11cda991129bc91b79d2c7cee1066.svg",
+    "main.70c0b141.css.map": "/Anurag-Singh-Profile/static/css/main.70c0b141.css.map",
+    "main.f94c6d7e.js.map": "/Anurag-Singh-Profile/static/js/main.f94c6d7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70c0b141.css",
+    "static/js/main.f94c6d7e.js"
+  ]
+}
