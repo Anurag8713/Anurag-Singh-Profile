@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika&family=Mukta:wght@200&family=PT+Serif&family=Poppins:wght@400;500&family=Signika+Negative:wght@300&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Signika Negative', sans-serif;
+
+}
+
+body{
+    background-color: #373737;
+}
+
+
+
+
+.material-symbols-outlined{
+    font-size: 13px;
+   
+    
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+
+
+.nav-img{
+    width: 263px;
+    height: 300px;
+    border-radius: 10px;
+   
+}
+
+.nav-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav-name, .nav-website{
+    margin-top: 5px;
+    color: white;
+}
+
+.nav-profession{
+    margin-top: 5px;
+    color: rgb(160, 128, 91);
+    
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+
+
+}
+.btn-mail{
+    width: 90px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 12px;
+    background-color: rgb(255, 255, 255);
+    padding-left: 17px;
+    padding-right: 17px;
+    
+
+
+}
+.btn-linkedin{
+    width: 90px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 12px;
+    background-color: #00a8db;
+}
+
+
+
+.btn-img{
+    width: 16px;
+}
+
+.main-container{
+    width: 265px;
+    margin: auto;
+    padding: 30px;
+
+}
+
+.main-title{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
+
+.main-text{
+    font-size: 12px;
+    color: rgb(213, 213, 213);
+}
+
+.app-container{
+    background-color: rgb(35, 35, 41);
+    width: 265px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    height: auto;
+}
